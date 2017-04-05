@@ -1,3 +1,11 @@
+/*
+ * Autor: Luis Albaran, Sebastian Delgado
+ * Archivo: 3A
+ * Descripción: Punto 3 del Parcial_A
+ * Fecha de creación: 05 abril 2017
+ * Fecha de modificación: 05 abril 2017
+*/
+
 #include <iostream>
 
 using namespace std;
