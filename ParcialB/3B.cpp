@@ -34,7 +34,6 @@ using namespace std;
 		   else { return c;
 		   }
 	   }
-	   
    }
 int main () {
 	
