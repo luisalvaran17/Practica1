@@ -21,32 +21,11 @@ using namespace std;
 			if ((it -> first) == producto){
 				
 				 inventario [producto] += cantidad;
-				// cout << cantidad << endl;
-				
 				}
 			}
 			
 			inventario [producto] = cantidad;
 		}
-		
-	/*	// Punto B
-		void venta (string venta, int cantidad, map<string,double> inventario2, map<string,double> historial){
-			
-				for(map <string,double> ::iterator it=inventario2.begin(); it!= inventario2.end(); ++ it){
-					for(map <string,double> ::iterator it=historial.begin(); it!= historial.end(); ++ it){
-						
-						if (((it -> first) == producto) and (cantidad > 0)){
-							
-							inventario []
-							
-							}
-			
-			
-			
-			
-			
-			}*/
-
 int main (){
 
 	int  cantidad;
