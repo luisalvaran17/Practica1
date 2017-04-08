@@ -11,7 +11,7 @@
 #include <string>
 
 using namespace std;
-
+ 
  void agregarEmpleado( int empleado, map<int, double> registro){
 	 
 	 for (map <int,double> ::iterator it = registro.begin (); it!= registro.end (); ++ it) {
