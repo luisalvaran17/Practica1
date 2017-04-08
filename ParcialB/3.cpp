@@ -1,6 +1,6 @@
 /*
  * Autor: Luis Albaran, Sebastian Delgado
- * Archivo: 3B
+ * Archivo: 3
  * Descripción: Punto 3 del parcial B
  * Fecha de creación: 5 de abril
  * Fecha de modificación: 5 de abril

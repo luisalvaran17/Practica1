@@ -1,6 +1,6 @@
 /*
  * Autor: Luis Albaran, Sebastian Delgado
- * Archivo: 3A
+ * Archivo: 3.cpp
  * Descripción: Punto 3 del Parcial_A
  * Fecha de creación: 05 abril 2017
  * Fecha de modificación: 05 abril 2017

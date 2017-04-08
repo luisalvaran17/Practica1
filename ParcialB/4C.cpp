@@ -1,6 +1,6 @@
 /*
  * Autor: Luis Albaran, Sebastian Delgado
- * Archivo: 4B
+ * Archivo: 4C
  * Descripción: Punto 4 del parcial B
  * Fecha de creación: 5 de abril
  * Fecha de modificación: 5 de abril
